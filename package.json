@@ -10,8 +10,8 @@
     "start": "babel-node ./server.js",
     "dev": "DEBUG=jwt-react-redux-auth-boilerplate:* npm start",
     "lint": "eslint **/*.js",
-    "build-js": "browserify --extension=jsx src/app.jsx -t babelify -t uglifyify -o public/assets/javascripts/bundle.js",
-    "watch-js": "watchify --debug --extension=jsx src/app.jsx -t babelify -o public/assets/javascripts/bundle.js -v"
+    "build-js": "browserify --extension=jsx src/app.jsx -t babelify -t uglifyify -o public/bundle.js",
+    "watch-js": "watchify --debug --extension=jsx src/app.jsx -t babelify -o public/bundle.js -v"
   },
   "repository": {
     "type": "git",
