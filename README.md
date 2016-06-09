@@ -35,3 +35,5 @@ $ npm run lint # eslint
 ```
 
 ## Detail
+
+http://qiita.com/nabeliwo/items/ac4b77324a9989e8e6bb
