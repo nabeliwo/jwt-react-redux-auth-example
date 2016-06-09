@@ -1,6 +1,6 @@
-# jwt-react-redux-auth-boilerplate
+# jwt-react-redux-auth-example
 
-It is the boilerplate of authentication using JWT in the SPA of React-Redax.
+It is the example of authentication using JWT in the SPA of React-Redax.
 It doesn't support server-side rendering.
 
 ## Get started
