@@ -6,9 +6,9 @@ It doesn't support server-side rendering.
 ## Get started
 
 ```bash
-$ git clone git@github.com:nabeliwo/jwt-react-redux-auth-boilerplate.git
+$ git clone git@github.com:nabeliwo/jwt-react-redux-auth-example.git
 
-$ cd jwt-react-redux-auth-boilerplate
+$ cd jwt-react-redux-auth-example
 $ npm install
 $ npm run build-js # build bundle.js
 ```
